@@ -22,8 +22,8 @@ Lately, I've been monkeying around with React, trying to build some basic web pa
 ![](https://img.shields.io/badge/Azure-404040?style=flat&logo=microsoftazure)
 
 #### In addition, here are a few other things I've used in the past!
-![](https://img.shields.io/badge/C-404040?style=flat&logo=cplusplus)
-![](https://img.shields.io/badge/C%2B%2B-404040?style=flat&logo=c)
+![](https://img.shields.io/badge/C-404040?style=flat&logo=c)
+![](https://img.shields.io/badge/C%2B%2B-404040?style=flat&logo=cplusplus)
 ![](https://img.shields.io/badge/C%23-404040?style=flat&logo=csharp)
 ![](https://img.shields.io/badge/Java-404040?style=flat&logo=java)
 ![](https://img.shields.io/badge/Python-404040?style=flat&logo=python)
