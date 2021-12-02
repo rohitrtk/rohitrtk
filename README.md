@@ -13,9 +13,10 @@ Lately, I've been monkeying around with React, trying to build some basic web pa
 
 ##
 
-#### Here are the technologies I'm currently using
+#### Here are the technologies I'm currently using!
 
 ![](https://img.shields.io/badge/JavaScript-404040?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Node.JS-404040?style=flat&logo=nodedotjs)
 ![](https://img.shields.io/badge/AFrame-404040?style=flat&logo=aframe)
 ![](https://img.shields.io/badge/React-404040?style=flat&logo=react)
 ![](https://img.shields.io/badge/Electron-404040?style=flat&logo=electron)
