@@ -7,9 +7,9 @@ My name's Rohit, I'm a student at the University of Toronto Mississauga campus c
 ##
 
 #### What I'm doing?
-I currently work for [Six Nations Polytechnic](https://www.snpolytechnic.com/) as a Senior Software Developer Intern. We recently completed an XR project to help people learn about indigenous culture, as well as allow other people to create experiences for themselves. Right now, we're currently working on a few web form systems to allow children to apply as a student to Six Nations Polytechnic as well as allow adults to apply for jobs.
+I currently work for [Six Nations Polytechnic](https://www.snpolytechnic.com/) as a Senior Software Developer Intern. We recently completed an XR project to help people learn about indigenous culture, as well as allow other people to create experiences for themselves. Right now, I'm currently working on a couple of projects which essentially will allow for people to either apply as a student or some other specified job at SNP.
 
-In my spare time, I've been learning OpenGL and making a beyond primitive game engine in C++. If I'm not programming, I'm either playing guitar or at the gym.
+When I'm not programming, I enjoy weightlifting which helps clear my mind or playing guitar. I've also recently picked up chess which is something I've always wanted to do but just never got around to.
 
 ##
 
